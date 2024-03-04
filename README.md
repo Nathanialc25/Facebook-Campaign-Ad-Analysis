@@ -1,4 +1,4 @@
-#Data Science Project - Facebook Ad Analysis | 02.10.2021
+# Data Science Project - Facebook Ad Analysis | 02.10.2021
 
 This older project of mine was to practice with Python Data Science packages such as numpy and pandas. The work in this was directly created using google Colab, which is my Python notebook of choice
 
